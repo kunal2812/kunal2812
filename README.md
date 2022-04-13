@@ -48,8 +48,7 @@ if __name__ == '__main__':
   </a>
   &emsp;
   <a href="">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-	"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
 <a href="https://www.java.com/en/">
