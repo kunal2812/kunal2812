@@ -89,7 +89,8 @@ if __name__ == '__main__':
 </p>
 
 <hr>
-<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Github Activity</b></i></p><br>
+
+<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;***GitHub Activity***
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunal2812&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="stats" width="410" /></p>
