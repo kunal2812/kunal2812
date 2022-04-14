@@ -20,8 +20,7 @@ class Kunal2812():
     self.name = "Kunal Katiyar";
     self.username = "kunal2812";
     self.institute = "MNNIT, Allahabad";
-    self.location = "Allahabad, India";
-    self.mailto = "kunalkatiyar50@gmail.com";
+    self.mail = "kunalkatiyar50@gmail.com";
     self.web = "https://kunal2812.github.io/";
   
   def __str__(self):
@@ -95,12 +94,12 @@ if __name__ == '__main__':
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunal2812&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="stats" width="410" /></p>
 <br><br><br><br> <br><br><br>
 <p align="center">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2812&theme=chartreuse-dark&hide_border=true" />
+    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2812&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Kunal's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kunal2812&custom_title=Kunal%20Katiyar's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kunal2812.github.io)
+[![Kunal's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kunal2812&custom_title=Kunal's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kunal2812.github.io)
 
 
 <br><br>
@@ -122,4 +121,3 @@ if __name__ == '__main__':
 
 
 -----
-
