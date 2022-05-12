@@ -99,11 +99,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Kunal's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kunal2812&custom_title=Kunal's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kunal2812.github.io)
-
-
-<br><br>
-
 <hr>
 
 <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp; ***Connect here***
