@@ -97,7 +97,7 @@ if __name__ == '__main__':
     <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2812&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
-<br>
+
 
 <hr>
 
