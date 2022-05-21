@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=kunal2812&style=for-the-badge&color=brightgreen" alt="watching_count" />
  </p>
 <br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 ```python
 class Kunal2812():
