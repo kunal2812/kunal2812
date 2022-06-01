@@ -30,7 +30,8 @@ if __name__ == '__main__':
 ```
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technical Skills***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;* -->
+***Technical Skills***
 
 <p align="left"> 
 &emsp;
@@ -88,7 +89,8 @@ if __name__ == '__main__':
 
 <hr>
 
-<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;***GitHub Activity***
+<!-- <img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp; -->
+***GitHub Activity***
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunal2812&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="stats" width="410" /></p>
@@ -101,7 +103,8 @@ if __name__ == '__main__':
 
 <hr>
 
-<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp; ***Connect here***
+<!-- <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp;  -->
+***Connect here***
 
 <p>
 <br>	
