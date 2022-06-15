@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="./img/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="./img/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300" height="200">
 </div>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Kunal+%F0%9F%91%8B;Information+Technology+Student;Competitive+Programmer;Open-Source+Enthusiast" alt="Headline" />
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 ```
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">&nbsp;
 ***Technical Skills***
 
 <p align="left"> 
@@ -89,7 +89,7 @@ if __name__ == '__main__':
 
 <hr>
 
-<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;
 ***GitHub Activity***
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
 <hr>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> &nbsp; 
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px"  width="30px"> &nbsp; 
 ***Coding Profiles***
 
 <p>
@@ -122,7 +122,7 @@ if __name__ == '__main__':
 
 <hr>
 
-<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp; 
+<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" height="30px" width="30px"> &nbsp; 
 ***Connect here***
 
 <p>
