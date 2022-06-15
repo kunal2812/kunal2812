@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=kunal2812&style=for-the-badge&color=brightgreen" alt="watching_count" />
  </p>
 <br>
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ```python
 class Kunal2812():
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 ```
 <hr>
 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;* -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*
 ***Technical Skills***
 
 <p align="left"> 
@@ -89,7 +89,7 @@ if __name__ == '__main__':
 
 <hr>
 
-<!-- <img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp; -->
+<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
 ***GitHub Activity***
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
@@ -100,10 +100,29 @@ if __name__ == '__main__':
   </a>
 </p>
 
+<hr>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> &nbsp; 
+***Coding Profiles***
+
+<p>
+<br>	
+<a target="_blank" href="https://codeforces.com/profile/kunal0403"><img src="https://cp-logo.vercel.app/codeforces/kunal0403?logo=true" alt="Codeforces"></img></a>
+&emsp;
+<a target="_blank" href="https://www.codechef.com/users/kunal0403"
+><img src="https://cp-logo.vercel.app/codechef/kunal0403?style=for-the-badge&logo=true" alt="CodeChef"></img></a>
+&emsp;
+<a href="https://atcoder.jp/users/kunal0403"><img src="https://cp-logo.vercel.app/atcoder/kunal0403?logo=true" alt="AtCoder" /></a>
+&emsp;
+<a href="https://leetcode.com/kunal0403/"><img src="https://cp-logo.vercel.app/leetcode/kunal0403?logo=true" alt="LeetCode" /></a>
+&emsp;
+<a href="https://www.hackerearth.com/@kunal0403"><img src="https://img.shields.io/badge/HackerEarth-1675-blue?logo=HackerEarth&logoColor=Blue" alt="HackerEarth" /></a>
+<br>
+</p>
 
 <hr>
 
-<!-- <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp;  -->
+<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp; 
 ***Connect here***
 
 <p>
