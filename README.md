@@ -1,36 +1,16 @@
 <div align=center>
         <img src="./img/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Kunal+%F0%9F%91%8B;Information+Technology+Student;Competitive+Programmer;Open-Source+Enthusiast" alt="Headline" />
-</div>
-
-<hr>
+<h1 align="center"><b>Hey, I'm <a href="https://kunal2812.github.io">Kunal</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=kunal2812&style=for-the-badge&color=brightgreen" alt="watching_count" />
  </p>
 <br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-```python
-class Kunal2812():
-    
-  def __init__(self):
-    self.name = "Kunal Katiyar";
-    self.username = "kunal2812";
-    self.institute = "MNNIT, Allahabad";
-    self.mail = "kunalkatiyar50@gmail.com";
-    self.web = "https://kunal2812.github.io/";
-  
-  def __str__(self):
-    return self.name
-if __name__ == '__main__':
-    me = Kunal2812()
-```
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ***Technical Skills***
 
 <p align="left"> 
@@ -84,6 +64,8 @@ if __name__ == '__main__':
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><br>
   &emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  &emsp;
+  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Django-F9AB00?style=for-the-badge&logo=django&color=223451"></a>
   &emsp;
 </p>
 
