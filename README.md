@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="./img/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="./img/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300" height="200">
 </div>
 <h1 align="center"><b>Hey, I'm <a href="https://kunal2812.github.io">Kunal</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
@@ -65,13 +65,19 @@
   &emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
   &emsp;
-  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Django-F9AB00?style=for-the-badge&logo=django&color=223451"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-F9AB00?style=for-the-badge&logo=django&color=223451"></a>
   &emsp;
+  <img alt='JavaScript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'> &emsp;
+  <img alt='LaTeX' src='https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white'> &emsp;
+  <img alt='Firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>&emsp;
+   <img alt='MySQL' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'> &emsp;
+   <img alt='scikit-learn' src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white'>
+
 </p>
 
 <hr>
 
-<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;
 ***GitHub Activity***
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
@@ -84,7 +90,7 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> &nbsp; 
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px"  width="30px"> &nbsp; 
 ***Coding Profiles***
 
 <p>
@@ -104,7 +110,7 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30px"> &nbsp; 
+<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" height="30px" width="30px"> &nbsp; 
 ***Connect here***
 
 <p>
