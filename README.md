@@ -70,8 +70,8 @@
   <img alt='JavaScript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'> &emsp;
   <img alt='LaTeX' src='https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white'> &emsp;
   <img alt='Firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>&emsp;
-   <img alt='MySQL' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'> &emsp;
-   <img alt='scikit-learn' src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white'>
+  <img alt='MySQL' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'><br>&emsp;
+  <img alt='scikit-learn' src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white'>
 
 </p>
 
