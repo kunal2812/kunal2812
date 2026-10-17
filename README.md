@@ -30,6 +30,9 @@ Exploring machine learning, building useful software, and working through a good
   <img src="./assets/stack/sqs.svg" width="40" height="40" alt="Amazon SQS" title="Amazon SQS" />
   <img src="https://skillicons.dev/icons?i=dynamodb&amp;theme=dark" width="40" height="40" alt="Amazon DynamoDB" title="Amazon DynamoDB" />
   <img src="./assets/stack/lambda.svg" width="40" height="40" alt="AWS Lambda" title="AWS Lambda" />
+  <img src="./assets/stack/rds.svg" width="40" height="40" alt="Amazon RDS" title="Amazon RDS" />
+  <img src="./assets/stack/elasticache.svg" width="40" height="40" alt="Amazon ElastiCache" title="Amazon ElastiCache" />
+  <img src="./assets/stack/opensearch.svg" width="40" height="40" alt="Amazon OpenSearch Service" title="Amazon OpenSearch Service" />
 </p>
 
 **Data &amp; distributed systems**
