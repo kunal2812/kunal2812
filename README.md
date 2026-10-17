@@ -26,25 +26,22 @@ Exploring machine learning, building useful software, and working through a good
 **AWS &amp; serverless**
 
 <p>
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="Amazon Web Services (AWS)" />
-  <img src="https://img.shields.io/badge/Amazon_SQS-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="Amazon SQS" />
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="Amazon DynamoDB" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="AWS Lambda" />
+  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="40" height="40" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" />
+  <img src="./assets/stack/sqs.svg" width="40" height="40" alt="Amazon SQS" title="Amazon SQS" />
+  <img src="https://skillicons.dev/icons?i=dynamodb&amp;theme=dark" width="40" height="40" alt="Amazon DynamoDB" title="Amazon DynamoDB" />
+  <img src="./assets/stack/lambda.svg" width="40" height="40" alt="AWS Lambda" title="AWS Lambda" />
 </p>
 
 **Data &amp; distributed systems**
 
 <p>
-  <img src="https://img.shields.io/badge/Databricks-080B08?style=for-the-badge&amp;logo=databricks&amp;logoColor=A3FF12" alt="Databricks Products" />
-  <img src="https://img.shields.io/badge/PySpark-080B08?style=for-the-badge&amp;logo=apachespark&amp;logoColor=A3FF12" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-080B08?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=A3FF12" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Temporal-080B08?style=for-the-badge&amp;logo=temporal&amp;logoColor=A3FF12" alt="Temporal" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-080B08?style=for-the-badge&amp;logo=postgresql&amp;logoColor=A3FF12" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-080B08?style=for-the-badge&amp;logo=redis&amp;logoColor=A3FF12" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-080B08?style=for-the-badge&amp;logo=mongodb&amp;logoColor=A3FF12" alt="MongoDB" />
+  <img src="./assets/stack/databricks.svg" width="40" height="40" alt="Databricks Products" title="Databricks Products" />
+  <img src="./assets/stack/pyspark.svg" width="40" height="40" alt="PySpark" title="PySpark" />
+  <img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" width="40" height="40" alt="Apache Kafka" title="Apache Kafka" />
+  <img src="./assets/stack/temporal.svg" width="40" height="40" alt="Temporal" title="Temporal" />
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" width="40" height="40" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" width="40" height="40" alt="MongoDB" title="MongoDB" />
 </p>
 
 **Web &amp; machine learning**
