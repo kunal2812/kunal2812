@@ -1,128 +1,87 @@
-<div align=center>
-        <img src="./img/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300" height="200">
-</div>
-<h1 align="center"><b>Hey, I'm <a href="https://kunal2812.github.io">Kunal</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=kunal2812&style=for-the-badge&color=brightgreen" alt="watching_count" />
- </p>
-<br>
-
-<hr>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-***Technical Skills***
-
-<p align="left"> 
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  &emsp;
-    <a href="">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a><br>
-  &emsp;
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp; 
-   <a href="" target="_blank"> 
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  </a>
-  &emsp;
-     <a href="" target="_blank"> 
-    <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  </a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><br>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-F9AB00?style=for-the-badge&logo=django&color=223451"></a>
-  &emsp;
-  <img alt='JavaScript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'> &emsp;
-  <img alt='LaTeX' src='https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white'> &emsp;
-  <img alt='Firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>&emsp;
-  <img alt='MySQL' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'><br>&emsp;
-  <img alt='scikit-learn' src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white'>
-
-</p>
-
-<hr>
-
-<img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;
-***GitHub Activity***
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal2812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunal2812&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="stats" width="410" /></p>
-<br><br><br><br> <br><br><br>
 <p align="center">
-    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2812&theme=chartreuse-dark&hide_border=true" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Kunal Katiyar — Software Engineer. Build with curiosity. Keep learning." />
 </p>
 
-<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal0403"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&amp;labelColor=162032&amp;color=64E4C2" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:kunalkatiyar50@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0B1220?style=for-the-badge&amp;labelColor=162032&amp;color=64E4C2" alt="Email Kunal" /></a>
+  <a href="https://github.com/kunal2812?tab=followers"><img src="https://img.shields.io/github/followers/kunal2812?style=for-the-badge&amp;label=Followers&amp;labelColor=162032&amp;color=64E4C2" alt="GitHub followers" /></a>
+</p>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px"  width="30px"> &nbsp; 
-***Coding Profiles***
+### Hey, I'm Kunal.
+
+Software engineer based in India. I enjoy turning ideas into useful software, exploring machine learning, and working through a good programming problem.
+
+My public work spans accessible developer tools, Android apps, and web platforms. The common thread: **build, learn, improve.**
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kunal2812/Programmophone">Programmophone ↗</a></h3>
+      <p>A speech-controlled IDE that explores making programming more accessible.</p>
+      <p><sub>PYTHON · SPEECH RECOGNITION · TKINTER</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kunal2812/PistoChat">PistoChat ↗</a></h3>
+      <p>An Android chat prototype with NLP-powered chatbot conversations.</p>
+      <p><sub>JAVA · ANDROID · FIREBASE · NLP</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kunal2812/Youdemy">Youdemy ↗</a></h3>
+      <p>A web platform for discovering and learning from programming courses.</p>
+      <p><sub>PYTHON · DJANGO · HTML · CSS</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kunal2812/CP">Problem-solving notebook ↗</a></h3>
+      <p>A collection of solutions from Codeforces, AtCoder, and programming practice.</p>
+      <p><sub>C++ · ALGORITHMS · DATA STRUCTURES</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/kunal2812?tab=repositories&amp;type=source">Explore my repositories →</a></p>
+
+## Tools I reach for
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&amp;theme=dark" height="44" alt="Python, C++, C, Java, JavaScript, HTML, and CSS" />
+
+**Web, data &amp; machine learning**
+
+<img src="https://skillicons.dev/icons?i=django,tensorflow,sklearn,firebase,mysql,bootstrap&amp;theme=dark" height="44" alt="Django, TensorFlow, scikit-learn, Firebase, MySQL, and Bootstrap" />
+
+**Everyday essentials**
+
+<img src="https://skillicons.dev/icons?i=git,linux,bash&amp;theme=dark" height="44" alt="Git, Linux, and Bash" />
+
+## GitHub, at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;icon_color=64E4C2&amp;text_color=CBD5E1&amp;ring_color=64E4C2&amp;hide_rank=true" width="380" alt="Kunal's public GitHub repository statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2812&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;text_color=CBD5E1" width="420" alt="Languages used across Kunal's public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunal2812&amp;theme=github_dark&amp;animation=draw&amp;duration=2&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;text_color=CBD5E1&amp;icon_color=64E4C2&amp;chart_color=64E4C2" width="98%" alt="Kunal's GitHub contribution activity, with an animated chart" />
+</p>
+
+<p align="center"><sub>Stats and languages reflect public repositories. Activity follows GitHub's public contribution graph.</sub></p>
+
+## A good problem is always welcome
 
 <p>
-<br>	
-<a target="_blank" href="https://codeforces.com/profile/kunal0403"><img src="https://cp-logo.vercel.app/codeforces/kunal0403?logo=true" alt="Codeforces"></img></a>
-&emsp;
-<a target="_blank" href="https://www.codechef.com/users/kunal0403"
-><img src="https://cp-logo.vercel.app/codechef/kunal0403?style=for-the-badge&logo=true" alt="CodeChef"></img></a>
-&emsp;
-<a href="https://atcoder.jp/users/kunal0403"><img src="https://cp-logo.vercel.app/atcoder/kunal0403?logo=true" alt="AtCoder" /></a>
-&emsp;
-<a href="https://leetcode.com/kunal0403/"><img src="https://cp-logo.vercel.app/leetcode/kunal0403?logo=true" alt="LeetCode" /></a>
-&emsp;
-<a href="https://www.hackerearth.com/@kunal0403"><img src="https://img.shields.io/badge/HackerEarth-1675-blue?logo=HackerEarth&logoColor=Blue" alt="HackerEarth" /></a>
-<br>
+  <a href="https://codeforces.com/profile/kunal0403"><img src="https://img.shields.io/badge/Codeforces-162032?style=flat-square&amp;logo=codeforces&amp;logoColor=64E4C2" alt="Codeforces profile" /></a>
+  <a href="https://atcoder.jp/users/kunal0403"><img src="https://img.shields.io/badge/AtCoder-162032?style=flat-square" alt="AtCoder profile" /></a>
+  <a href="https://leetcode.com/kunal0403/"><img src="https://img.shields.io/badge/LeetCode-162032?style=flat-square&amp;logo=leetcode&amp;logoColor=64E4C2" alt="LeetCode profile" /></a>
+  <a href="https://www.codechef.com/users/kunal0403"><img src="https://img.shields.io/badge/CodeChef-162032?style=flat-square&amp;logo=codechef&amp;logoColor=64E4C2" alt="CodeChef profile" /></a>
+  <a href="https://www.hackerearth.com/@kunal0403"><img src="https://img.shields.io/badge/HackerEarth-162032?style=flat-square&amp;logo=hackerearth&amp;logoColor=64E4C2" alt="HackerEarth profile" /></a>
 </p>
 
-<hr>
+---
 
-<img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" height="30px" width="30px"> &nbsp; 
-***Connect here***
-
-<p>
-<br>	
-<a target="_blank" href="http://www.linkedin.com/in/kunal0403"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:kunalkatiyar50@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a href="https://www.quora.com/profile/Kunal-Katiyar-5"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora" alt="Quora" /></a>
-<br>
-</p>
-
-
------
+<p align="center"><b>Curiosity in. Useful software out.</b><br /><sub>Have an idea or a good technical rabbit hole? <a href="https://www.linkedin.com/in/kunal0403">Let's connect.</a></sub></p>
