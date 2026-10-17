@@ -21,7 +21,31 @@ Exploring machine learning, building useful software, and working through a good
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&amp;theme=dark" height="40" alt="Python, C++, C, Java, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python,java,go,cpp,c,js,html,css&amp;theme=dark" height="40" alt="Python, Java, Go, C++, C, JavaScript, HTML, CSS" />
+
+**AWS &amp; serverless**
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="Amazon Web Services (AWS)" />
+  <img src="https://img.shields.io/badge/Amazon_SQS-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="Amazon SQS" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="Amazon DynamoDB" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-080B08?style=for-the-badge&amp;logoColor=A3FF12" alt="AWS Lambda" />
+</p>
+
+**Data &amp; distributed systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-080B08?style=for-the-badge&amp;logo=databricks&amp;logoColor=A3FF12" alt="Databricks Products" />
+  <img src="https://img.shields.io/badge/PySpark-080B08?style=for-the-badge&amp;logo=apachespark&amp;logoColor=A3FF12" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-080B08?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=A3FF12" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Temporal-080B08?style=for-the-badge&amp;logo=temporal&amp;logoColor=A3FF12" alt="Temporal" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-080B08?style=for-the-badge&amp;logo=postgresql&amp;logoColor=A3FF12" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-080B08?style=for-the-badge&amp;logo=redis&amp;logoColor=A3FF12" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-080B08?style=for-the-badge&amp;logo=mongodb&amp;logoColor=A3FF12" alt="MongoDB" />
+</p>
 
 **Web &amp; machine learning**
 
