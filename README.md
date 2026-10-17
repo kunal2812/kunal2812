@@ -62,8 +62,8 @@ My public work spans accessible developer tools, Android apps, and web platforms
 ## GitHub, at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;icon_color=64E4C2&amp;text_color=CBD5E1&amp;ring_color=64E4C2&amp;hide_rank=true" width="380" alt="Kunal's public GitHub repository statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2812&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;text_color=CBD5E1" width="420" alt="Languages used across Kunal's public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;icon_color=64E4C2&amp;text_color=CBD5E1&amp;ring_color=64E4C2&amp;hide_rank=true" width="360" alt="Kunal's public GitHub repository statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2812&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=64E4C2&amp;text_color=CBD5E1" width="400" alt="Languages used across Kunal's public repositories" />
 </p>
 
 <p align="center">
