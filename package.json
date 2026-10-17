@@ -1,0 +1,13 @@
+{
+  "name": "kunal2812-profile-motion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node motion/preview.mjs",
+    "check": "node motion/check.mjs"
+  },
+  "devDependencies": {
+    "gsap": "3.15.0",
+    "three": "0.186.1"
+  }
+}

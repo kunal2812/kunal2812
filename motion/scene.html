@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kunal Katiyar · Motion study</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: #050908; }
+    body { min-height: 100vh; display: grid; place-items: center; }
+    canvas { display: block; width: min(100%, 1200px); height: auto; }
+  </style>
+</head>
+<body>
+  <canvas id="hero" width="1200" height="420" role="img" aria-label="Kunal Katiyar, software engineer. An animated green wireframe sculpture floats above a perspective grid."></canvas>
+  <script src="../node_modules/gsap/dist/gsap.min.js"></script>
+  <script type="module">
+    import * as THREE from '../node_modules/three/build/three.module.js';
+
+    const canvas = document.getElementById('hero');
+    const ctx = canvas.getContext('2d');
+    const green = '#a3ff12';
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true });
+    renderer.setSize(1200, 420);
+    renderer.setPixelRatio(1);
+    renderer.setClearColor(0x050908, 0);
+    const scene = new THREE.Scene();
+    scene.fog = new THREE.FogExp2(0x050908, 0.11);
+    const camera = new THREE.PerspectiveCamera(39, 1200 / 420, 0.1, 40);
+    camera.position.set(0, 1.5, 7.2);
+    camera.lookAt(0, 0.1, 0);
+
+    const sculpture = new THREE.Group();
+    sculpture.position.set(3.65, 0.12, 0);
+    scene.add(sculpture);
+    const shell = new THREE.Mesh(
+      new THREE.TorusKnotGeometry(0.86, 0.21, 110, 9, 2, 3),
+      new THREE.MeshBasicMaterial({ color: 0xa3ff12, wireframe: true, transparent: true, opacity: 0.48 })
+    );
+    sculpture.add(shell);
+
+    const core = new THREE.Group();
+    const ico = new THREE.IcosahedronGeometry(0.57, 0);
+    core.add(new THREE.Mesh(ico, new THREE.MeshBasicMaterial({ color: 0xa3ff12, transparent: true, opacity: 0.055, side: THREE.DoubleSide })));
+    core.add(new THREE.LineSegments(new THREE.EdgesGeometry(ico), new THREE.LineBasicMaterial({ color: 0xd7ff97, transparent: true, opacity: 0.85 })));
+    sculpture.add(core);
+
+    const orbit = new THREE.Group();
+    sculpture.add(orbit);
+    for (let i = 0; i < 3; i++) {
+      const points = Array.from({ length: 160 }, (_, j) => {
+        const a = j / 160 * Math.PI * 2;
+        return new THREE.Vector3(Math.cos(a) * (1.5 + i * 0.13), Math.sin(a) * (1.5 + i * 0.13), 0);
+      });
+      const ring = new THREE.LineLoop(new THREE.BufferGeometry().setFromPoints(points), new THREE.LineBasicMaterial({ color: 0xa3ff12, transparent: true, opacity: i === 0 ? 0.48 : 0.16 }));
+      ring.rotation.set(0.45 + i * 0.54, 0.5 + i * 0.36, i * 0.7);
+      orbit.add(ring);
+    }
+    const satellite = new THREE.Mesh(new THREE.SphereGeometry(0.038, 8, 8), new THREE.MeshBasicMaterial({ color: 0xe2ffb9 }));
+    sculpture.add(satellite);
+
+    const grid = new THREE.GridHelper(18, 36, 0x325216, 0x182b13);
+    grid.position.set(2, -1.45, -1);
+    grid.material.transparent = true;
+    grid.material.opacity = 0.42;
+    scene.add(grid);
+
+    const specks = new Float32Array(42 * 3);
+    for (let i = 0; i < 42; i++) {
+      // Fixed arithmetic sequence keeps every exported frame reproducible.
+      specks[i * 3] = 0.3 + ((i * 137) % 101) / 101 * 5;
+      specks[i * 3 + 1] = -0.8 + ((i * 53) % 97) / 97 * 3;
+      specks[i * 3 + 2] = -2 + ((i * 31) % 89) / 89 * 3;
+    }
+    const particles = new THREE.Points(new THREE.BufferGeometry().setAttribute('position', new THREE.BufferAttribute(specks, 3)), new THREE.PointsMaterial({ color: 0x99b96f, size: 0.019, transparent: true, opacity: 0.48 }));
+    scene.add(particles);
+
+    const motion = { phase: 0 };
+    const timeline = gsap.timeline({ paused: true }).to(motion, { phase: Math.PI * 2, duration: 6, ease: 'none' });
+    const mono = '"Cascadia Code", "Consolas", monospace';
+
+    function label(text, x, y, size = 12, color = '#819086') {
+      ctx.fillStyle = color;
+      ctx.font = `${size}px ${mono}`;
+      ctx.fillText(text, x, y);
+    }
+
+    function draw(t, tiltX = 0, tiltY = 0) {
+      timeline.seek(((t % 6) + 6) % 6, false);
+      const a = motion.phase;
+      sculpture.rotation.set(tiltY * 0.12, tiltX * 0.12, 0);
+      sculpture.position.y = 0.12 + Math.sin(a) * 0.09;
+      shell.rotation.set(0.22 + Math.sin(a) * 0.13, a, 0.12);
+      core.rotation.set(-a, a * 2, 0.2);
+      orbit.rotation.set(Math.sin(a) * 0.14, 0, a);
+      satellite.position.set(Math.cos(a) * 1.5, Math.sin(a) * 0.68, Math.sin(a) * 1.1);
+      particles.position.y = Math.sin(a) * 0.05;
+      renderer.render(scene, camera);
+
+      ctx.fillStyle = '#050908';
+      ctx.fillRect(0, 0, 1200, 420);
+      const halo = ctx.createRadialGradient(906, 205, 5, 906, 205, 300);
+      halo.addColorStop(0, '#a3ff120b');
+      halo.addColorStop(1, '#a3ff1200');
+      ctx.fillStyle = halo;
+      ctx.fillRect(560, 0, 640, 420);
+      ctx.drawImage(renderer.domElement, 0, 0);
+
+      const shade = ctx.createLinearGradient(420, 0, 760, 0);
+      shade.addColorStop(0, '#050908');
+      shade.addColorStop(1, '#05090800');
+      ctx.fillStyle = shade;
+      ctx.fillRect(0, 0, 760, 420);
+
+      ctx.strokeStyle = '#22301d';
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.moveTo(36, 36); ctx.lineTo(36, 24); ctx.lineTo(48, 24);
+      ctx.moveTo(1152, 24); ctx.lineTo(1164, 24); ctx.lineTo(1164, 36);
+      ctx.moveTo(36, 384); ctx.lineTo(36, 396); ctx.lineTo(48, 396);
+      ctx.moveTo(1152, 396); ctx.lineTo(1164, 396); ctx.lineTo(1164, 384);
+      ctx.stroke();
+
+      ctx.fillStyle = green;
+      ctx.fillRect(64, 62, 6, 6);
+      label('KUNAL2812 / SOFTWARE ENGINEER', 84, 69, 12, '#a3ff12');
+      ctx.font = '900 82px "Arial Black", "Arial", sans-serif';
+      ctx.fillStyle = '#e4eadd';
+      ctx.fillText('KUNAL', 59, 173);
+      ctx.fillStyle = green;
+      ctx.fillText('KATIYAR', 59, 258);
+      label('BUILD WITH CURIOSITY.', 64, 304, 15, '#b6c2b6');
+      label('KEEP LEARNING. KEEP SHIPPING.', 64, 330, 15, '#819086');
+
+      ctx.strokeStyle = '#24331b';
+      ctx.beginPath(); ctx.moveTo(64, 363); ctx.lineTo(523, 363); ctx.stroke();
+      label('github.com/kunal2812', 64, 386, 11, '#6e806f');
+      label('CODE / CRAFT / CURIOSITY', 852, 381, 11, '#829174');
+      label('HELLO, WORLD.', 1030, 49, 10, '#5e7354');
+      return canvas;
+    }
+
+    // Export API: no pointer or wall-clock state affects renderFrame(t).
+    window.renderFrame = (t) => draw(Number(t) || 0);
+    window.animationDuration = 6;
+    window.motionTimeline = timeline;
+    window.renderFrame(0);
+    window.ready = true;
+
+    const capture = new URLSearchParams(location.search).has('capture');
+    const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
+    const pointer = { x: 0, y: 0 };
+    if (!capture) {
+      canvas.addEventListener('pointermove', (event) => {
+        const rect = canvas.getBoundingClientRect();
+        gsap.to(pointer, { x: (event.clientX - rect.left) / rect.width * 2 - 1, y: (event.clientY - rect.top) / rect.height * 2 - 1, duration: 0.6, overwrite: true });
+      });
+      canvas.addEventListener('pointerleave', () => gsap.to(pointer, { x: 0, y: 0, duration: 0.8, overwrite: true }));
+      const start = performance.now();
+      function animate(now) {
+        draw(reduceMotion.matches ? 0 : (now - start) / 1000, reduceMotion.matches ? 0 : pointer.x, reduceMotion.matches ? 0 : pointer.y);
+        requestAnimationFrame(animate);
+      }
+      requestAnimationFrame(animate);
+    }
+  </script>
+</body>
+</html>
