@@ -8,8 +8,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal0403"><img src="https://img.shields.io/badge/LinkedIn-Connect-A3FF12?style=for-the-badge&amp;labelColor=080B08&amp;color=A3FF12" alt="Connect on LinkedIn" /></a>
   <a href="mailto:kunalkatiyar50@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-A3FF12?style=for-the-badge&amp;labelColor=080B08&amp;color=A3FF12" alt="Email Kunal" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/kunal2812?tab=followers"><img src="https://img.shields.io/github/followers/kunal2812?style=for-the-badge&amp;label=Followers&amp;labelColor=080B08&amp;color=A3FF12" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kunal2812&amp;style=for-the-badge&amp;color=A3FF12&amp;label=Profile+views" alt="GitHub profile views" />
+  <img src="https://img.shields.io/badge/dynamic/xml.svg?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dkunal2812%26style%3Dfor-the-badge&amp;query=substring-after%28%2F%2A%5Blocal-name%28%29%3D%27svg%27%5D%2F%40aria-label%2C+%27%3A+%27%29&amp;label=Views&amp;style=for-the-badge&amp;labelColor=080B08&amp;color=A3FF12" alt="GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kunal2812&amp;style=pixel" width="1" height="1" alt="" />
 </p>
 
 ## `> whoami`
