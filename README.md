@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/kunal0403"><img src="https://img.shields.io/badge/LinkedIn-Connect-A3FF12?style=for-the-badge&amp;labelColor=080B08&amp;color=A3FF12" alt="Connect on LinkedIn" /></a>
   <a href="mailto:kunalkatiyar50@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-A3FF12?style=for-the-badge&amp;labelColor=080B08&amp;color=A3FF12" alt="Email Kunal" /></a>
   <a href="https://github.com/kunal2812?tab=followers"><img src="https://img.shields.io/github/followers/kunal2812?style=for-the-badge&amp;label=Followers&amp;labelColor=080B08&amp;color=A3FF12" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kunal2812&amp;style=for-the-badge&amp;color=A3FF12&amp;label=Profile+views" alt="GitHub profile views" />
 </p>
 
 ## `> whoami`
